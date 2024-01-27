@@ -1,6 +1,6 @@
 # Quizzical-App
 
-![25161703764908_ pic](https://github.com/Solidityarchitect/react-quizzical-app/assets/125990317/8d1bc41f-64c2-47d3-b05b-c917acc580ac)
+![Quizzical App](https://github.com/Solidityarchitect/React-Course/assets/125990317/d2c7129d-4671-4306-a052-d773c9891f00)
 
 Warning: Vite enforces using jsx syntax inside jsx/tsx files, so it will complain about that. Solution: rename `.js` files to `.jsx` :)
 
