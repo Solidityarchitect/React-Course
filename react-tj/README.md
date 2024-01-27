@@ -1,6 +1,6 @@
 # React Travel Journal
 
-![Group 132](https://github.com/Solidityarchitect/react-tj/assets/125990317/8726de3a-42bd-4281-9da2-dd2a5654189c)
+![Group 132](https://github.com/Solidityarchitect/React-Course/assets/125990317/5e4813d4-98de-41d0-96de-01b10b16e180)
 
 Warning: Vite enforces using jsx syntax inside jsx/tsx files, so it will complain about that. Solution: rename `.js` files to `.jsx` :)
 
