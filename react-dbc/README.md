@@ -1,6 +1,6 @@
 # React Digital Business Card
 
-![Option 1](https://github.com/Solidityarchitect/react-dbc/assets/125990317/ef88089a-f6e3-4b05-ab07-49a2f09d7447)
+![Option 1](https://github.com/Solidityarchitect/React-Course/assets/125990317/227fe894-f921-48dc-8f0d-8a5e7e29e51b)
 
 Quick start:
 
